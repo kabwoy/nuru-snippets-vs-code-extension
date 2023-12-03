@@ -4,6 +4,7 @@
   "description": "provides helpful snippets for nuru programming",
   "publisher": "kabwoy",
   "version": "0.0.1",
+  "icon": "images/nuru.png",
   "engines": {
     "vscode": "^1.84.0"
   },

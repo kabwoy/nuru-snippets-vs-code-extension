@@ -14,7 +14,7 @@
         "type": "git",
         "url": "https://github.com/kabwoy/nuru-snippets-vs-code-extension.git"
       },
-    "icon": "images/nuru.png", 
+    "icon": "images/9.png", 
     "activationEvents": [
       "onCommand:extension.andika"
     ],
