@@ -1,4 +1,4 @@
-# nuru-snippets README
+# Nuru-snippets
 
 ## Description
 
@@ -7,7 +7,7 @@ Nuru snipets provides some common snippets for the nuru swahili programming lang
 
 ## Features
 
-\!\[feature X\]\(images/nuru-snip.gif\)
+![Alt Text](images/nuru-snip.gif)
 
 
 ## Requirements
