@@ -2,7 +2,7 @@
     "name": "Nuru Snippets",
     "displayName": "Nuru Snippets",
     "description": "provides some common snippets which will help you save time while coding in nuru",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "kabwoy",
     "engines": {
       "vscode": "^1.60.0" 
