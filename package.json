@@ -1,0 +1,20 @@
+{
+  "name": "nuru-snippets",
+  "displayName": "nuru-snippets",
+  "description": "provides helpful snippets for nuru programming",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "nuru",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}
